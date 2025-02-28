@@ -4,3 +4,6 @@
 
 NEW UPDATE!!!
 Now using .jar file format!!
+
+NEW UPDATE
+Now supports operating system that dont have java!!
